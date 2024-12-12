@@ -11,7 +11,7 @@
 
 ## Solved.ac 프로필
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Pyohya" alt="Solved.ac 프로필" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pyohya" alt="Solved.ac 프로필" />
 
 ---
 
