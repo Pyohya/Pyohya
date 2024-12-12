@@ -3,7 +3,7 @@
 # 안녕하세요, Pyohya입니다!👋
 
 <p>주로 AI관련 프로젝트에 기여하고 있어요.</p>
-<img src="https://wallpaperwaifu.com/wp-content/uploads/2023/01/bocchi-chan-dinosaur-bocchi-the-rock-thumb.jpg" width="350" alt="프로필 비디오">
+<img src="Twitter Header.png" width="350" alt="프로필 비디오">
 
 ## GitHub 통계
 
