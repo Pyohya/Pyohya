@@ -20,11 +20,11 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=pengooseDev&show_icons=true&theme=tokyonight" alt="Pengoose's GitHub stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pyohya&show_icons=true&theme=tokyonight" alt="Pengoose's GitHub stats" />
     </td>
     <td>
   <a href="https://solved.ac/pengoosedev/">
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pengoosedev" alt="Solved.ac Profile" />
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Pyohya" alt="Solved.ac Profile" />
   </a>
     </td>
   </tr>
