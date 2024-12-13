@@ -67,7 +67,7 @@
     <h2>Contact</h2>
     <ul style="list-style-type: none; padding-left: 0;">
       <li><strong>Email:</strong> <a href="pyosy17@gmail.com">pyosy17@gmail.com</a></li>
-      <li><strong>Blog:</strong> <a href="https://pyohya.github.io" target="_blank">https://pyohya.github.io</a></li>
+      <!--  <li><strong>Blog:</strong> <a href="https://pyohya.github.io" target="_blank">https://pyohya.github.io</a></li> -->
       <li><strong>GitHub:</strong> <a href="https://github.com/Pyohya" target="_blank">github.com/Pyohya</a></li>
     </ul>
   </div>
