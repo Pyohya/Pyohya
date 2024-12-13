@@ -1,6 +1,6 @@
 <!-- Full-width Header Image -->
 <div>
-  <img src="Twitter Header.png2" style="width: 100%; display: block;" alt="Profile Header">
+  <img src="Twitter Header2.png" style="width: 100%; display: block;" alt="Profile Header">
 </div>
 
 <!-- Centered Content Container -->
