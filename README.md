@@ -1,7 +1,4 @@
 <!-- Full-width Header Image -->
-<div>
-  <img src="Twitter Header3.png" style="width: 100%; display: block;" alt="Profile Header">
-</div>
 
 <!-- Centered Content Container -->
 <div align="center" style="max-width: 800px; margin: auto; padding: 20px;">
@@ -26,15 +23,9 @@
     <table style="width: 100%; border-collapse: collapse;">
       <tr>
         <td style="padding: 8px; border: 1px solid #ddd;"><strong>Hwaseong High School</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;">Graduated</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Sungkyunkwan University</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;">Attended</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Kyoto University</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;">Studying Abroad</td>
+        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Hwahong  High School</strong></td>
       </tr>
     </table>
   </div>
@@ -44,8 +35,6 @@
     <h2>Awards</h2>
     <ul style="list-style-type: disc; padding-left: 20px;">
       <li><strong>ACM-ICPC Regional Contest</strong> - Participant</li>
-      <li><strong>Korean Information Olympiad</strong> - Silver Medalist</li>
-      <li><strong>University Algorithm Competition</strong> - Gold Medalist</li>
     </ul>
   </div>
 
