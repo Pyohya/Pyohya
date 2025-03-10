@@ -3,7 +3,7 @@
 <!-- Centered Content Container -->
 <div align="center" style="max-width: 800px; margin: auto; padding: 20px;">
 
-  # Hello, I'm Pyohya! 👋
+  # Hello, I'm Pyohya! 👋 (｡•́︿•̀｡)
 
   <p>I primarily contribute to AI-related projects.</p>
 
