@@ -1,7 +1,7 @@
 <!-- Full-width Header Image -->
 <!-- Centered Content Container -->
 <div align="center" style="max-width: 800px; margin: auto; padding: 20px;">
-  # Hello, I'm Pyohya! 👋 (｡•́︿•̀｡)
+  <h1>Hello, I'm Pyohya! 👋 (｡•́︿•̀｡)</h1>
   <p>I mainly work on AI and shader related projects.</p>
   <p>AIとシェーダー関連のプロジェクトを主に取り組んでいます。</p>
   <!-- GitHub Stats -->
