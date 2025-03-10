@@ -17,40 +17,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pyohya" alt="Solved.ac Profile" />
   </div>
 
-  <!-- Education Section -->
-  <div style="width: 100%; text-align: left; margin: 40px 0;">
-    <h2>Education</h2>
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Hwaseong High School</strong></td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Hwahong  High School</strong></td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- Awards Section -->
-  <div style="width: 100%; text-align: left; margin: 40px 0;">
-    <h2>Awards</h2>
-    <ul style="list-style-type: disc; padding-left: 20px;">
-      <li><strong>ACM-ICPC Regional Contest</strong> - Participant</li>
-    </ul>
-  </div>
-
-  <!-- Skills Section -->
-  <div style="width: 100%; text-align: left; margin: 40px 0;">
-    <h2>Skills</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=Csharp&logoColor=white" alt="C#">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    </div>
-  </div>
-
   <!-- Contact Section -->
   <div style="width: 100%; text-align: left; margin: 40px 0;">
     <h2>Contact</h2>
