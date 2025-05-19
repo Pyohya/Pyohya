@@ -1,40 +1,48 @@
-<!-- Full-width Header Image -->
-<!-- Centered Content Container -->
-<div align="center" style="max-width: 800px; margin: auto; padding: 20px;">
-  <h1>Hello, I'm Pyohya! 👋 (｡•̀ᴗ-)✧</h1>
-  <p>I mainly work on AI and shader related projects.</p>
-  <p>AIとシェーダー関連のプロジェクトを主に取り組んでいます。</p>
-  <!-- GitHub Stats -->
-  <div style="margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pyohya&show_icons=true&theme=tokyonight" alt="Pyohya's GitHub Stats" />
-  </div>
-  <!-- Solved.ac Profile -->
-  <div style="margin: 20px 0;">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pyohya" alt="Solved.ac Profile" />
-  </div>
-  
-  <!-- Career Section -->
-  <div style="width: 100%; text-align: left; margin: 40px 0;">
-    <h2>Career</h2>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>京都大学情報工学卒業</li>
-      <li>2020年 政府ITプロジェクトのコンテンツ一部開発</li>
-      <li>2021-2023年 バーチャルシェーダー開発・供給</li>
-      <li>2024年 RVCプロジェクト貢献</li>
-      <li>2025年 韓国バーチャルエンターテイメントWaktaverseにシェーダー提供・貢献</li>
-    </ul>
-  </div>
-  
-  <!-- Contact Section -->
-  <div style="width: 100%; text-align: left; margin: 40px 0;">
-    <h2>Contact</h2>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li><strong>Email:</strong> <a href="pyosy17@gmail.com">pyosy17@gmail.com</a></li>
-      <!--  <li><strong>Blog:</strong> <a href="https://pyohya.github.io" target="_blank">https://pyohya.github.io</a></li> -->
-      <li><strong>GitHub:</strong> <a href="https://github.com/Pyohya" target="_blank">github.com/Pyohya</a></li>
-    </ul>
-  </div>
-  <!-- Footer -->
-  <hr style="border: 0; height: 1px; background: #ddd; margin: 40px 0;">
-  <p>⭐️ Follow my activities on GitHub!</p>
+<h1 align="center">안녕하세요, 저는 <a href="https://github.com/Pyohya">Pyohya</a> 👋</h1>
+
+<p align="center">
+  🎧 AI 음성·챗 서비스와 API 툴을 만드는 학생 개발자입니다.<br/>
+  새롭고 재미있는 기능으로 사람들을 연결하는 일을 좋아해요!
+</p>
+
+---
+
+## 📚 Education
+| 기간 | 학교 |
+|------|------|
+| – 1년 | **화성고등학교** |
+| – 2년 | **화홍고등학교** (재학 중) |
+
+## 🛠️ Projects & Contributions
+| 프로젝트 | 역할·기여 |
+|----------|-----------|
+| **Applio** <br/>(RVC 오픈소스) | Voice Conversion Extra 개선 및 한국어 번역 작업 |
+| **뽀삐 Discord Bot** | 일부 명령어·API 구현 |
+| **왁타버스 채팅 후원 이펙트 API** | 실시간 후원 이펙트용 REST API 설계·개발 |
+
+## ⚙️ Tech Stack
+<!-- 적절히 수정·추가하세요 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white"/>
+
+## 💡 What I’m Working On
+- Chain-of-Thought (CoT) 소규모 LLM 개발 및 학습
+- 발로란트 전적 및 AI기반 실시간 내 전투 평점&야시장 스킨 확인 에이전트 봇 개발
+- REST API기반 초저지연 SOOP 후원 API 개발
+
+## 📫 Contact
+|  |  |
+|--|--|
+| **Email** | <pyosy17@gmail.com> |
+| **GitHub** | [github.com/Pyohya](https://github.com/Pyohya) |
+
+---
+
+<!-- GitHub Stats + Solved.ac Profile (same line) -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pyohya&show_icons=true&theme=tokyonight" alt="Pyohya's GitHub Stats" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pyohya" alt="Solved.ac Profile" />
 </div>
