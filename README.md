@@ -4,7 +4,6 @@
 
 <p>
   🎧 AI와 API 툴을 만드는 학생 개발자입니다.<br/>
-  새롭고 재미있는 기능을 만드는걸 좋아해요!
 </p>
 
 ---
@@ -23,12 +22,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white"/>
-
-## 📫 Contact
-|  |  |
-|--|--|
-| **Email** | <pyosy17@gmail.com> |
-| **GitHub** | [github.com/Pyohya](https://github.com/Pyohya) |
 
 ---
 
