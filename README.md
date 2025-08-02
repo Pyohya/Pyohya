@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>안녕하세요, 저는 <a href="https://github.com/Pyohya">Pyohya</a> 👋</h1>
+<h1>안녕하세요, 저는 <a href="https://github.com/Pyohya">Pyohya</a>입니다! 👋</h1>
 
 <p>
   🎧 AI와 API 툴을 만드는 학생 개발자입니다.<br/>
