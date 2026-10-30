@@ -10,8 +10,6 @@
 <br/>
 
 
-🎓 Seoul National University
-
 💻 Interested in **AI Engineering** · **Full Stack** · **Deep Learning**
 
 <br/>
